@@ -1,5 +1,5 @@
 # Gravity-Books-DWH-ETL-Project
-📚 #DataWarehouseCraftsmanship:
+<h1>📚 #DataWarehouseCraftsmanship:</h1>
 We’ve architected a Data Warehouse with the finesse of the Snowflake Schema, ensuring data is not only organized but primed for the intricate needs of Gravity Books. Swipe to see the dimensional model that serves as the foundation of this architecture. 🕰️ #HistoricalIntelligence: By integrating Slowly Changing Dimensions (SCD), we honor the narrative of data over time. Each customer story is etched in our history, with granular details preserved to enrich our understanding and strategies.
 📊 #SnapshotOfSuccess:
 The Accumulated Snapshot Fact Table is our panoramic lens over vital business metrics. It's a tableau of progress, capturing the essence of our transactions over time. 🛠️ #SSISExcellence: Leveraging the Lookup transformation in SSIS, we've achieved unmatched data accuracy and consistency, essential for a coherent narrative in our analytics. 🔍 #DataInnovationJourney: This project transcends conventional data manipulation. It's an odyssey of innovation, with SSIS as our vessel, navigating through the vast data universe to bring forth insights that were once nebulous.
